@@ -62,6 +62,18 @@ fastapi-template/
 
    Fill in the required variables in `.env`.
 
+3. **Create a virtual environment**
+
+   Use `venv` or any other virtual environment manager. Then, create and activate the virtual environment:
+
+   ```bash
+   python -m venv venv
+   # En Windows
+   venv\Scripts\activate
+   # En Mac/Linux
+   source venv/bin/activate
+   ```
+
 ### Local Environment
 
 #### Prerequisites
